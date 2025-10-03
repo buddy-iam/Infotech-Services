@@ -1,2 +1,0 @@
-# Infotech-Services
-Internship assignment
